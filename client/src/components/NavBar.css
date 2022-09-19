@@ -1,0 +1,24 @@
+.text {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border: black solid 1px;
+    border-radius: 0.4rem;
+    background-color: #212529;
+    height: 40px;
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+    align-items: center;
+    vertical-align: middle;
+
+}
+
+.text:hover {
+    color: black;
+    background-color: white;
+    /* box-shadow: 0 0 20px purple; */
+
+    
+}
+
